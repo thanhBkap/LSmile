@@ -6,6 +6,8 @@ Whenever you have trouble in the game, We will be ready to support you.
 
 ### Privacy Policy
 
+We get your score which you get when you pass our app' challenges and upload it to a global leaderboard. 
+
 Devy built the LSmile app as a free app. This SERVICE is provided by Devy at no cost and is intended for use as is.
 
 ### Security
